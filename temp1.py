@@ -4,4 +4,4 @@ def fun(x):
               else:
                             print("Odd")
 fun(2)
-fun(3)                            
+fun(3)                           
