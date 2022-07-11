@@ -1,0 +1,6 @@
+def f():
+    s = "Me too."
+    print(s)
+s = "I love Geeksforgeeks"
+f()
+print(s)
