@@ -5,4 +5,4 @@ class Ashok:
     def function1(self):
         print("Java")
 newobj = Ashok()
-print(newobj.function())
+print(newobj.function1())
