@@ -1,0 +1,5 @@
+def f():
+   a = "New to Python"
+   print(a)
+
+f()
