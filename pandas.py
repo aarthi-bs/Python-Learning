@@ -1,3 +1,4 @@
-import pandas as pd 
-data = pd.read_csv(r"nba.csv")    
-print(data.head())
+import pandas as pd
+data = {'Name':['Ashok'],'Age':['22']}
+df = pd.DataFrame(data)
+print(df)
